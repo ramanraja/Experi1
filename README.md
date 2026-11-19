@@ -1,1 +1,1 @@
-Heterogenous collection of experiments
+Heterogeneous collection of experiments
